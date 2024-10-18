@@ -1,20 +1,18 @@
 button {
     background-color: aquamarine;
     color: aliceblue;
-    
     border: none;
-
     border-radius: 10px 10px 10px 10px;
     cursor: pointer; 
     font-size: 25px;
 }
 
-/* Optional hover effect */
+
 button:hover {
-    background-color: lightseagreen; /* Optional */
-    color: white; /* Optional */
+    background-color: lightseagreen; 
+    color: white; 
 }
 body {
     font-family: 'Times New Roman';
-    text-align: center;         /* Centers text inside the body */
+    text-align: center;        
 }
